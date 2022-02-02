@@ -1,4 +1,5 @@
-# DashX - Laravel Admin Package
-## Based on Laravel Voyager
+# **DashX AdminCenter**
+**DashX AC** is Laravel Voyager based, Admin package that extends all Voyager features.
 
-Description will be able soon...
+Yep, that's it. For now...
+More information will be available later.
